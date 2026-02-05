@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+pandas
+mplcursors
+lxml
+plotly
+html5lib
