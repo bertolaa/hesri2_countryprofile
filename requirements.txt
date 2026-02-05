@@ -7,4 +7,5 @@ plotly
 html5lib
 xlrd
 openai
+openpyxl
 
