@@ -6,3 +6,5 @@ lxml
 plotly
 html5lib
 xlrd
+openai
+
